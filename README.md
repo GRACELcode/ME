@@ -50,6 +50,6 @@ It's a test
  <font color="red"> 哦！</font>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-# [给你看](https://gracelcode.github.io/ohok/)
+[给你看](https://gracelcode.github.io/ohok/)
 
 </details>
