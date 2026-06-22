@@ -53,6 +53,6 @@ It's a test
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1><a href="https://gracelcode.github.io/ohok/">谨慎点击</a></h1>
+<a href="https://gracelcode.github.io/ohok/" style="background-color: black; color: red; border: 2px solid red; padding: 12px 30px; text-decoration: none; font-weight: bold; font-family: monospace; box-shadow: 0 0 15px red; display: inline-block;">谨慎点击</a>
 
 </details>
