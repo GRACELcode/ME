@@ -50,6 +50,6 @@ It's a test
  <font color="red"> 哦！</font>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-###### <font color="red">[给你看](https://www.youtube.com)</font>
+# [给你看](https://gracelcode.github.io/ohok/)
 
 </details>
