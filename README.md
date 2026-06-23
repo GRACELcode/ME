@@ -1,6 +1,6 @@
 <div style="background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%); padding: 30px 20px; border-radius: 12px; box-shadow: inset 0 0 30px rgba(0,180,216,0.15); font-family: monospace;">
 
-    <h1 style="color: #0077b6; text-shadow: 0 0 8px rgba(0,119,182,0.3); margin-top: 0;">你居然点进来了</h1>
+    <h1 style="color: #0077b6; text-shadow: 0 0 8px rgba(0,119,182,0.3); margin-top: 0;">你知道了密码</h1>
     
     <br>
     
